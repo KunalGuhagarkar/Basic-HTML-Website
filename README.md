@@ -1,5 +1,9 @@
 # Basic-HTML-Website
 
+## Project URL
+
+https://github.com/KunalGuhagarkar/Basic-HTML-Website
+
 A simple multi-page portfolio website built using **HTML only**, with a focus on semantic structure, accessibility, and basic SEO metadata.
 
 ## Project Overview
